@@ -8,7 +8,7 @@ Microcontroller: [Elite-C](https://deskthority.net/wiki/Elite-C). See link for p
 ### Wiring
 Wire mapping created using [Keyboard Firmware Builder](https://kbfirmware.com/).
 See `vial-qmk > config.h` for pin configuration and `vial-qmk > info.json` for mapping.
-![wiring](wiring.png)
+![wiring](./hardware/wiring.png)
 
 ### Plate
 [Plate design](./hardware/kbplate.svg) created using [Keyboard Plate Generator by Keebio](https://plate.keeb.io/)
