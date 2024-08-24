@@ -3,19 +3,15 @@ a 55% handwired keyboard with rotary encoder
 for an easier transition to a keyboard without numkeys, but still has arrow keys
 
 ## Hardware
-Microcontroller: Elite-C
-
-### Elite-C Pinout
-![elite-c pinout](./hardware/pinout.png)
+Microcontroller: [Elite-C](https://deskthority.net/wiki/Elite-C). See link for pinout.
 
 ### Wiring
 Wire mapping created using [Keyboard Firmware Builder](https://kbfirmware.com/).
-See `vial-qmk > config.h` and `vial-qmk > info.json` for pin configuration.
+See `vial-qmk > config.h` for pin configuration and `vial-qmk > info.json` for mapping.
 ![wiring](wiring.png)
 
 ### Plate
-Plate design created using [Keyboard Plate Generator by Keebio](https://plate.keeb.io/)
-![plate](./hardware/kbplate.svg)
+[Plate design](./hardware/kbplate.svg) created using [Keyboard Plate Generator by Keebio](https://plate.keeb.io/)
 
 ## Firmware
 This keyboard has been programmed to work with [vial-qmk](https://github.com/vial-kb/vial-qmk). Note that the vial-qmk directory will not work on its own. You will need to fork the vial-qmk respository, and nest the directory under vial-qmk > keyboards > handwired
