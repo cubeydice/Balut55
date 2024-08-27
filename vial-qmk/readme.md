@@ -1,6 +1,6 @@
 A handwired 55 percent layout keyboard with rotary encoder.
 
-* Keyboard Maintainer: [Queen Dela Cruz](https://github.com/moshimochisauce)
+* Keyboard Maintainer: [Queen Dela Cruz](https://github.com/cubeydice)
 * Hardware Supported: Elite-C
 
 Make example for this keyboard (after setting up your build environment):
