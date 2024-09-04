@@ -1,3 +1,5 @@
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+
 # Balut55
 a 55% handwired keyboard with rotary encoder
 for an easier transition to a keyboard without numkeys, but still has arrow keys
